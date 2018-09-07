@@ -1,4 +1,4 @@
-# Taller 1 DCA - Sebastián Gaviria
+﻿# Taller 1 DCA - Sebastián Gaviria
 
 ## Clase Logica
 Es la clase donde se hace el procesamiento general del programa
@@ -13,3 +13,6 @@ Atributos:
 Métodos:
 - **pintar()** Pinta la representación gráfica de este esquema.
 
+
+
+la solución que encontré en clase con la ayuda de el Santi
